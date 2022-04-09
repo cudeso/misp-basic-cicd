@@ -1,0 +1,3 @@
+[submodule "misp-packer"]
+	path = misp-packer
+	url = https://github.com/MISP/misp-packer
